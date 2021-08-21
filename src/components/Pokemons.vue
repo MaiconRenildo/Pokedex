@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="column is-half is-offset-one-quarter">
-      <img src="../assets/logo.png">
+      <img src="../assets/poke.png">
       <hr>
       <h4 class="is-size-4">Pokedex</h4>
 
