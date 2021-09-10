@@ -1,5 +1,5 @@
 # Pokedex
-<p>Projeto desenvolvido a partir do consumo da PokeAPI utilizando Vue.js e Buma<p>
+<p>Projeto desenvolvido a partir do consumo da PokeAPI utilizando Vue.js e Bulma<p>
   
 ## Screenshots
   
